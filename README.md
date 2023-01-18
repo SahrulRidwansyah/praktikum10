@@ -28,9 +28,11 @@ Out put:
 # Latihan 2
 
 Code:
+
 ![rul 3](https://user-images.githubusercontent.com/115526901/213092709-0fde46b5-009e-4ca7-a6f5-eea19aeef195.png)
 
 Out put:
+
 ![rul 4](https://user-images.githubusercontent.com/115526901/213093148-1447adc4-7ae1-4a9b-878d-5f6f3e453230.png)
 
 # Penjelasan
