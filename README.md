@@ -1,10 +1,11 @@
 # praktikum10
 
 # Latihan 1
+```
 Nama  : Sahrul Ridwansyah
 NIm   : 312210063
 Kelas : TI.22.A2
-
+```
 Code:
 
 ![rul 2](https://user-images.githubusercontent.com/115526901/213091416-e720b9d8-932c-4e04-8c34-19400650b65f.png)
